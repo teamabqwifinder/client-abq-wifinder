@@ -35,7 +35,7 @@ We selected this particular project because of its potential ability to positive
 
 ### Wireframe
 
-[WireFrame](WireFrame.pdf)
+[WireFrame](ABQ-WiFinder-Pre-Planning/WireFrame.pdf)
 
 
 
