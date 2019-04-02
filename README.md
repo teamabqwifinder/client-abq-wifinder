@@ -33,9 +33,7 @@ We selected this particular project because of its potential ability to positive
 
 ### Links to the most recent wireframes and up-to-date user stories for your project.
 
-### Wireframe
-
-[WireFrame](ABQ-WiFinder-Pre-Planning/WireFrame.pdf)
+[WireFrame](https://github.com/teamabqwifinder/ABQ-WiFinder-Pre-Planning/blob/master/WireFrame.pdf)
 
 
 
