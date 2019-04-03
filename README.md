@@ -33,5 +33,31 @@ We selected this particular project because of its potential ability to positive
 
 ### Links to the most recent wireframes and up-to-date user stories for your project.
 
+[WireFrame](https://github.com/teamabqwifinder/ABQ-WiFinder-Pre-Planning/blob/master/WireFrame.pdf)
+
+[UserStories](https://github.com/teamabqwifinder/ABQ-WiFinder-Pre-Planning/blob/master/UserStory.md)
+
+### Links to the up-to-date ERD and DDL for this component’s data model.
+
+[Back-End ERD](https://github.com/teamabqwifinder/ABQ-WiFinder-Pre-Planning/blob/master/WiFinderBackEndFinalUpdate.pdf)
+[Front-End ERD](https://github.com/teamabqwifinder/ABQ-WiFinder-Pre-Planning/blob/master/Capstone_ERD.pdf)
+[DDL]
+
+### Licenses
+
+Copyright 2019 Faycel Beji, Felipe Cook, Josh DeLeon & Deep Dive Coding
+
+Licensed under the Apache License, Version 2.0 (the “License”); you may not use this file except in compliance with the License. You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an “AS IS” BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
+
+[Full (including 3rd party) licenses and copyrights](https://github.com/teamabqwifinder/ABQ-WiFinder-Pre-Planning/blob/master/Copyright.md)
+
+
+
+
+
 
 
